@@ -1,1 +1,1 @@
-# Transistor-Amplifier
+# Wzmacniacz tranzystorowy
